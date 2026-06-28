@@ -2,7 +2,8 @@
 A Roblox Script Editor Theme.
 
 # Install
-Run
+Run this script in the Roblox Studio command line.
+
 ```lua
 local json = [[{
   "Background Color":[26,27,38],
@@ -51,5 +52,3 @@ end
 print("Successfully applied the TokyoNight (Night) Script Editor theme!")
 
 ```
-
-In the Roblox Studio command line.
