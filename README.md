@@ -49,6 +49,6 @@ for name, color in pairs(theme) do
       end
 end
 
-print("Successfully applied the TokyoNight (Night) Script Editor theme!")
+print("Successfully applied the TokyoBlox Script Editor theme!")
 
 ```
