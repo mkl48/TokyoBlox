@@ -1,5 +1,5 @@
 # TokyoBlox
-A Roblox Script Editor Theme.
+A Roblox script editor theme inspired by Neovim TokyoNight
 
 # Install
 Run this script in the Roblox Studio command line.
